@@ -1,6 +1,7 @@
 # Hi, I'm Niklas 👋
 
 ## 👨‍💻 About Me
+- 🎓 Student at **HTL Braunau**
 - 📫 How to reach me: [Email](mailto:n.mayr0329@gmail.com) | [Twitter](https://twitter.com/nikidev99)
 
 ---
