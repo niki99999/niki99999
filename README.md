@@ -5,16 +5,13 @@
 
 ---
 
-<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=niki99999&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki99999&layout=compact&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
-</table>
+## 🌟 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niki99999&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niki99999&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -25,6 +22,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataSpell-087CFA?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
